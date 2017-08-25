@@ -29,7 +29,6 @@ defmodule Metex.Worker do
     end
   end
 
-  defp apikey do
-    "50e13dd2d6e18149f7ae4e50b4cc04ea"
-  end
+  defp apikey, do: "50e13dd2d6e18149f7ae4e50b4cc04ea"
+
 end
